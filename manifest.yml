@@ -3,9 +3,9 @@ applications:
   memory: 256M
   instances: 1
   domain: au-syd.mybluemix.net
-  name: bluenodemix
-  host: bluenodemix
+  name: NodeAppCICD1438
+  host: NodeAppCICD1438
   disk_quota: 1024M
   services:
-  - Cloudant NoSQL DB-kh
+  - Cloudant NoSQL DB-8t
  
